@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\Blog.Web\\Blog.Web.csproj": {}
+    "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Web\\Blog.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\Blog.Web\\Blog.Web.csproj": {
+    "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Web\\Blog.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\Blog.Web\\Blog.Web.csproj",
+        "projectUniqueName": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Web\\Blog.Web.csproj",
         "projectName": "Blog.Web",
-        "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\Blog.Web\\Blog.Web.csproj",
+        "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Web\\Blog.Web.csproj",
         "packagesPath": "C:\\Users\\talha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\Blog.Web\\obj\\",
+        "outputPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\talha\\AppData\\Roaming\\NuGet\\NuGet.Config",

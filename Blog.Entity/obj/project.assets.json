@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\Blog.Entity\\Blog.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Entity\\Blog.Entity.csproj",
       "projectName": "Blog.Entity",
-      "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\Blog.Entity\\Blog.Entity.csproj",
+      "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Entity\\Blog.Entity.csproj",
       "packagesPath": "C:\\Users\\talha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\Blog.Entity\\obj\\",
+      "outputPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\talha\\AppData\\Roaming\\NuGet\\NuGet.Config",

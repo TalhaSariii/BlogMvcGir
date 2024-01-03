@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XjcI+6AmzWr8FdauqQ0rli9RZIKac3GR0Yq/gtF0NwanhYzhrQANOLMdloz9xgRcqDLFxq9OjLXpBPJpjZ/PWg==",
+  "dgSpecHash": "sfizqv1QexzhTfSU5ltN6XLB3FuUSvJ+RoETcRV+SbPGWceyY8Es1jO9z6BkOZUbDdRXq8nQIHYXFO4elh/4GA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\Blog.Service\\Blog.Service.csproj",
+  "projectFilePath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Service\\Blog.Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
