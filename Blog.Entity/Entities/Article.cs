@@ -3,9 +3,8 @@ using Blog.Entity.Entities;
 
 namespace Blog.Entity.Entities
 {
-    public class Article : EntityBase,IEntityBase
-    {
-        
+    public class Article : EntityBase
+    {   
         public string Title { get; set; }
         public string Content { get; set; }
         public int ViewCount { get; set; }
@@ -16,7 +15,6 @@ namespace Blog.Entity.Entities
         public Guid ImageId{ get; set; }
         public Image Image { get; set; }
 
-       
     }
 }
 
