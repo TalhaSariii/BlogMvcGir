@@ -4,6 +4,7 @@ using Blog.Data.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Blog.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240105151234_Initial2")]
+    partial class Initial2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -62,7 +64,8 @@ namespace Blog.Data.Migrations
 
                     b.Property<string>("Title")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(150)
+                        .HasColumnType("nvarchar(150)");
 
                     b.Property<int>("ViewCount")
                         .HasColumnType("int");
@@ -74,32 +77,6 @@ namespace Blog.Data.Migrations
                     b.HasIndex("ImageId");
 
                     b.ToTable("Articles");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("0a69056e-885c-4824-b7c3-14771705303c"),
-                            CategoryId = new Guid("1d72b1bf-8991-4c6f-8fc3-f12571b85d8d"),
-                            Content = "LOREM ASADASD DASASDADS SDASDA  SA DAS  S DAS  DSA DSADSADSAASD D SA DSA D AS DSA DSA D A DSA SASDA SD A SDA DAS SA DSA DSA SDA D SA ASD SA SDA  DAD AS SA DSA DSA D SA SDA",
-                            CreatedBy = "Admin test",
-                            CreatedDate = new DateTime(2024, 1, 5, 18, 50, 58, 133, DateTimeKind.Local).AddTicks(3747),
-                            ImageId = new Guid("dd19eb03-77dd-474c-9f2b-7fdd809c3b43"),
-                            IsDeleted = false,
-                            Title = "Title",
-                            ViewCount = 15
-                        },
-                        new
-                        {
-                            Id = new Guid("2bbdf1fe-b72a-4507-8711-d34b8e6114bf"),
-                            CategoryId = new Guid("9a6c0a2e-7065-46b4-bbbd-186d04ca9e06"),
-                            Content = "2.buLOREM ASADASD DASASDADS SDASDA  SA DAS  S DAS  DSA DSADSADSAASD D SA DSA D AS DSA DSA D A DSA SASDA SD A SDA DAS SA DSA DSA SDA D SA ASD SA SDA  DAD AS SA DSA DSA D SA SDA",
-                            CreatedBy = "Admin test",
-                            CreatedDate = new DateTime(2024, 1, 5, 18, 50, 58, 133, DateTimeKind.Local).AddTicks(3755),
-                            ImageId = new Guid("2bf61fdb-43aa-4e7f-a46e-6884e514c31d"),
-                            IsDeleted = false,
-                            Title = "2Title",
-                            ViewCount = 15
-                        });
                 });
 
             modelBuilder.Entity("Blog.Entity.Entities.Category", b =>
@@ -137,24 +114,6 @@ namespace Blog.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("1d72b1bf-8991-4c6f-8fc3-f12571b85d8d"),
-                            CreatedBy = "Admin test",
-                            CreatedDate = new DateTime(2024, 1, 5, 18, 50, 58, 133, DateTimeKind.Local).AddTicks(3958),
-                            IsDeleted = false,
-                            Name = "Tştle"
-                        },
-                        new
-                        {
-                            Id = new Guid("9a6c0a2e-7065-46b4-bbbd-186d04ca9e06"),
-                            CreatedBy = "Admin test",
-                            CreatedDate = new DateTime(2024, 1, 5, 18, 50, 58, 133, DateTimeKind.Local).AddTicks(3960),
-                            IsDeleted = false,
-                            Name = "Tştle"
-                        });
                 });
 
             modelBuilder.Entity("Blog.Entity.Entities.Image", b =>
@@ -196,26 +155,6 @@ namespace Blog.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Images");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("dd19eb03-77dd-474c-9f2b-7fdd809c3b43"),
-                            CreatedBy = "Admin test",
-                            CreatedDate = new DateTime(2024, 1, 5, 18, 50, 58, 133, DateTimeKind.Local).AddTicks(4083),
-                            FileName = "images/testImage",
-                            FileType = "png",
-                            IsDeleted = false
-                        },
-                        new
-                        {
-                            Id = new Guid("2bf61fdb-43aa-4e7f-a46e-6884e514c31d"),
-                            CreatedBy = "Admin test",
-                            CreatedDate = new DateTime(2024, 1, 5, 18, 50, 58, 133, DateTimeKind.Local).AddTicks(4100),
-                            FileName = "images/testImage",
-                            FileType = "png",
-                            IsDeleted = false
-                        });
                 });
 
             modelBuilder.Entity("Blog.Entity.Entities.Article", b =>
