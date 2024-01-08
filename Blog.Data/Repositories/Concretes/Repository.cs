@@ -76,5 +76,10 @@ namespace Blog.Data.Repositories.Concretes
         {
           return await Table.CountAsync(predicate);
         }
+
+        Task<bool> IRepository<T>.CountAsync(Expression<Func<T, bool>> predicate)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
