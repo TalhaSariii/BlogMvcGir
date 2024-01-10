@@ -6,6 +6,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Blog.Data.Repositories.Abstraction
 {
     public interface IRepository<T> where T : class,IEntityBase,new()
