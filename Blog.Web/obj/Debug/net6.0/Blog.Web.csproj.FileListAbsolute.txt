@@ -102,3 +102,5 @@ C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\Blog.Entity.pdb
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\obj\Debug\net6.0\Blog.Web.csproj.AssemblyReference.cache
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\obj\Debug\net6.0\Blog.Web.csproj.CopyComplete
+C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\Blog.Service.dll
+C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\Blog.Service.pdb

@@ -1,6 +1,7 @@
 ﻿using Blog.Core.Entities;
 using Blog.Entity.Entities;
 
+
 namespace Blog.Entity.Entities
 {
     public class Article : EntityBase

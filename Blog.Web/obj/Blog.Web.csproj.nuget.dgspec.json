@@ -193,6 +193,68 @@
         }
       }
     },
+    "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Service\\Blog.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Service\\Blog.Service.csproj",
+        "projectName": "Blog.Service",
+        "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Service\\Blog.Service.csproj",
+        "packagesPath": "C:\\Users\\talha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\talha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Data\\Blog.Data.csproj": {
+                "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Data\\Blog.Data.csproj"
+              },
+              "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Entity\\Blog.Entity.csproj": {
+                "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Entity\\Blog.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Web\\Blog.Web.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -219,6 +281,9 @@
             "projectReferences": {
               "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Data\\Blog.Data.csproj": {
                 "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Data\\Blog.Data.csproj"
+              },
+              "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Service\\Blog.Service.csproj": {
+                "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Service\\Blog.Service.csproj"
               }
             }
           }
