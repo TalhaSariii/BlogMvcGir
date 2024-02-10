@@ -426,3 +426,5 @@ C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\obj\Debug\net6.0\Blog.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
