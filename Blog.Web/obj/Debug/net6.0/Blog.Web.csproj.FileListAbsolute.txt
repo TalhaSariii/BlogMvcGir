@@ -120,8 +120,6 @@ C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -211,8 +209,6 @@ C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
-C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -428,3 +424,8 @@ C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\obj\Debug\net6.0\Blog.Web.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\talha\OneDrive\Masaüstü\BlogMVC\BlogMvcGir\Blog.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
