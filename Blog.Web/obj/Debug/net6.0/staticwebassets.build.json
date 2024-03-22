@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eJ4ChtDGDpdq7qasal0oQfp4vCdTjyRF3HWtXO7ODYs=",
+  "Hash": "1fgKIjfLw2KHP8jgyQN9Bwy/8Zt0JDlzEo/xkRdrDEk=",
   "Source": "Blog.Web",
   "BasePath": "_content/Blog.Web",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Web\\wwwroot\\js\\articleIndex.js",
+      "SourceId": "Blog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Web\\wwwroot\\",
+      "BasePath": "_content/Blog.Web",
+      "RelativePath": "js/articleIndex.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\articleIndex.js"
     },
     {
       "Identity": "C:\\Users\\talha\\OneDrive\\Masaüstü\\BlogMVC\\BlogMvcGir\\Blog.Web\\wwwroot\\js\\site.js",
